@@ -1,5 +1,5 @@
 # Tales-of-the-Abyss-Undub
-###Check the releases over to the right for the patch.
+#Check the releases over to the right for the patch.
 
 A mirror of the undub found at https://archive.org/details/tales_of_the_abyss_ps2_undub_patch
 Credits to the original authors:
